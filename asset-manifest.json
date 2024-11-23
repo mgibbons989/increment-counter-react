@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/increment-counter-react/static/css/main.4be974af.css",
+    "main.js": "/increment-counter-react/static/js/main.a67e9d01.js",
+    "static/js/453.6f38c955.chunk.js": "/increment-counter-react/static/js/453.6f38c955.chunk.js",
+    "index.html": "/increment-counter-react/index.html",
+    "main.4be974af.css.map": "/increment-counter-react/static/css/main.4be974af.css.map",
+    "main.a67e9d01.js.map": "/increment-counter-react/static/js/main.a67e9d01.js.map",
+    "453.6f38c955.chunk.js.map": "/increment-counter-react/static/js/453.6f38c955.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4be974af.css",
+    "static/js/main.a67e9d01.js"
+  ]
+}
